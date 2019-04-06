@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wesleythill.github.io/travel-blog/blogs/singapore/singapore/</loc>
+    <lastmod>2019-04-06T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wesleythill.github.io/travel-blog/tech/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url>
@@ -209,7 +214,7 @@
   
   <url>
     <loc>https://wesleythill.github.io/travel-blog/categories/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <lastmod>2019-04-06T07:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -220,13 +225,19 @@
   
   <url>
     <loc>https://wesleythill.github.io/travel-blog/categories/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <lastmod>2019-04-06T07:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wesleythill.github.io/travel-blog/</loc>
-    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+    <lastmod>2019-04-06T07:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleythill.github.io/travel-blog/categories/singapore/</loc>
+    <lastmod>2019-04-06T07:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
