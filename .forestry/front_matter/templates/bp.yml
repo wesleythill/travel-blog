@@ -1,0 +1,25 @@
+---
+label: Bp
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: slug
+  label: slug
+- type: file
+  name: image
+  label: image
+- type: text
+  name: keywords
+  label: keywords
+- type: list
+  name: categories
+  label: categories
+- type: datetime
+  name: date
+  label: date
