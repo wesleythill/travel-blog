@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifestyle on Forty</title>
-    <link>/blogs/taiwan/</link>
+    <link>https://wesleythill.github.io/travel-blog/blogs/taiwan/</link>
     <description>Recent content in Lifestyle on Forty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
     
-	<atom:link href="/blogs/taiwan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wesleythill.github.io/travel-blog/blogs/taiwan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ARRIVAL</title>
-      <link>/blogs/taiwan/arrival/</link>
+      <link>https://wesleythill.github.io/travel-blog/blogs/taiwan/arrival/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>/blogs/taiwan/arrival/</guid>
+      <guid>https://wesleythill.github.io/travel-blog/blogs/taiwan/arrival/</guid>
       <description>Title for the blog goes here More content</description>
     </item>
     
     <item>
       <title>Tempus</title>
-      <link>/blogs/taiwan/tempus/</link>
+      <link>https://wesleythill.github.io/travel-blog/blogs/taiwan/tempus/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>/blogs/taiwan/tempus/</guid>
+      <guid>https://wesleythill.github.io/travel-blog/blogs/taiwan/tempus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magna</title>
-      <link>/blogs/taiwan/magna/</link>
+      <link>https://wesleythill.github.io/travel-blog/blogs/taiwan/magna/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>/blogs/taiwan/magna/</guid>
+      <guid>https://wesleythill.github.io/travel-blog/blogs/taiwan/magna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>/blogs/taiwan/ipsum/</link>
+      <link>https://wesleythill.github.io/travel-blog/blogs/taiwan/ipsum/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>/blogs/taiwan/ipsum/</guid>
+      <guid>https://wesleythill.github.io/travel-blog/blogs/taiwan/ipsum/</guid>
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifestyle on Forty</title>
-    <link>/blogs/thailand/</link>
+    <link>https://wesleythill.github.io/travel-blog/blogs/thailand/</link>
     <description>Recent content in Lifestyle on Forty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
     
-	<atom:link href="/blogs/thailand/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wesleythill.github.io/travel-blog/blogs/thailand/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ARRIVAL</title>
-      <link>/blogs/thailand/arrival/</link>
+      <link>https://wesleythill.github.io/travel-blog/blogs/thailand/arrival/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>/blogs/thailand/arrival/</guid>
+      <guid>https://wesleythill.github.io/travel-blog/blogs/thailand/arrival/</guid>
       <description>Title for the blog goes here More content</description>
     </item>
     
     <item>
       <title>Tempus</title>
-      <link>/blogs/thailand/tempus/</link>
+      <link>https://wesleythill.github.io/travel-blog/blogs/thailand/tempus/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>/blogs/thailand/tempus/</guid>
+      <guid>https://wesleythill.github.io/travel-blog/blogs/thailand/tempus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magna</title>
-      <link>/blogs/thailand/magna/</link>
+      <link>https://wesleythill.github.io/travel-blog/blogs/thailand/magna/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>/blogs/thailand/magna/</guid>
+      <guid>https://wesleythill.github.io/travel-blog/blogs/thailand/magna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>/blogs/thailand/ipsum/</link>
+      <link>https://wesleythill.github.io/travel-blog/blogs/thailand/ipsum/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>/blogs/thailand/ipsum/</guid>
+      <guid>https://wesleythill.github.io/travel-blog/blogs/thailand/ipsum/</guid>
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
