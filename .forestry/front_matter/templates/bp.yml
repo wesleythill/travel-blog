@@ -24,3 +24,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- content/blogs/singapore/new-post.md
