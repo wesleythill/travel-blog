@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "/"
+baseURL = "https://wesleythill.github.io/travel-blog/"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
